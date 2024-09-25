@@ -1,7 +1,7 @@
 ## Hi there, my name is...ZORO! 👋
 ## <img align="center" alt="Coding" width="400" src="https://media1.tenor.com/m/kDkGTrLUIlMAAAAC/zoro-anime.gif">
 ## My lover is .... let you see him...
-## <img align="center" alt="Coding" width="400" src="https://media1.tenor.com/m/kDkGTrLUIlMAAAAC/zoro-anime.gif](https://media.tenor.com/2znYAjy7LOMAAAAM/sanji.gif">
+## <img align="center" alt="Coding" width="400" src="https://media.tenor.com/2znYAjy7LOMAAAAM/sanji.gif">
 <!--
 **dolbobob00/dolbobob00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
