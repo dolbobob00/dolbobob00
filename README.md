@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+ <img align="center" alt="Coding" width="400" src="https://media1.tenor.com/m/kDkGTrLUIlMAAAAC/zoro-anime.gif">
 <!--
 **dolbobob00/dolbobob00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
