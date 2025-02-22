@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🌱 Currently learning: Flutter, native development (Kotlin & Swift).<br>💻 Tech stack: Flutter, Dart, Kotlin, Swift, HTML, CSS, JavaScript.<br>🎯 Focus areas: Mobile app development.<br>🚀 Goals: Build unique projects, gain hands-on experience, and contribute to the developer community.<br>⚡ Philosophy: I always strive for simple and optimal solutions, whether in development or everyday life.
+🌱 Currently learning: Flutter, native development (Kotlin & Swift).<br>💻 Tech stack: Flutter, Dart, Kotlin, Swift, Firebase, dio, getit, bloc.<br>🎯 Focus areas: Mobile app development.<br>🚀 Goals: Build unique projects, gain hands-on experience, and contribute to the developer community.<br>⚡ Philosophy: I always strive for simple and optimal solutions, whether in development or everyday life.
 
 
 ## 🌐 Socials:
