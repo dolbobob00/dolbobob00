@@ -1,6 +1,3 @@
-## <img align="center" alt="Coding" width="400" src="https://media1.tenor.com/m/rYjOu84unFAAAAAd/rezero-subaru.gif">
-
-
 # 💫 About Me:
 🌱 Currently learning: Flutter. <br>💻 Tech stack: Flutter, Dart, Firebase, Dio, GetIt, BloC.<br>🎯 Focus areas: Mobile app development.<br>🚀 Goals: Became senior programmer.<br>⚡ Philosophy: It's always darkest before the dawn. 
 
